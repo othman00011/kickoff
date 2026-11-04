@@ -98,7 +98,7 @@ php -m | grep -i -E "pdo_pgsql|ctype|pcre"
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-account>/kickoff.git
+git clone https://github.com/othman00011/kickoff.git
 cd kickoff
 ```
 
